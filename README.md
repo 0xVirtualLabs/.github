@@ -28,5 +28,7 @@ If you're ready to contribute your expertise and passion to this monumental unde
 May the code guide us on this path of progress and innovation. 🧙‍♂️💻
 
 *Ready to collaborate?* Explore the possibilities with Ontropy - we are constantly hiring! 
-mailto: dev@ontropy.io, 
+
+dev@ontropy.io, 
+
 https://www.ontropy.io/career
